@@ -19,7 +19,7 @@ The overall objective was to apply our machine learning skills to o predict cred
 ### Combination (Over and Under) Sampling
 
 
-## Ensemble Learners
+## Ensemble Learners:
 
 
 ### Balanced Random Forest Classifier
