@@ -8,6 +8,7 @@ The overall objective was to apply our machine learning skills to o predict cred
 
 ### Naive Random Oversampling 
 
+<img width="715" alt="Screen Shot 2022-02-20 at 11 49 41 AM" src="https://user-images.githubusercontent.com/91925639/154854467-aa03f926-fcad-4e41-85ec-410d8aef306a.png">
 
 
 ### SMOTE Oversampling
